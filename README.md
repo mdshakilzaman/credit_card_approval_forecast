@@ -2,6 +2,7 @@
 
   - [Business problem](#business-problem)
   - [Data source](#data-source)
+  - [About the data](#about-data)
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
@@ -23,3 +24,8 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 ## Data source
 
 - [Kaggle credit card approval prediction](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
+
+## About the data
+
+There are many variables and the sole purpose is based on those varibale we need to figure out whether the person's credit card application will be approved.
+There are two data file or two tables which can be joinded or connected through ID variable/column. In the application_record.csv file we have all the information of the applicant/client and in credit_record.csv we have some crdit history or balane due for prvious months.
